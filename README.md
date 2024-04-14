@@ -2,18 +2,24 @@
   A website which tracks the time you login and logout from the website and stores it in a database.
 
 ## 📌Crafted By:
+~~~
   Frontend - Sanjay A @MilitantVlr
   Backend - Don Bosco Blaise A
+~~~
 
 ## 📌Languages usedL
+~~~
   PHP
   SQL
   HTML
   CSS
+~~~
   
 ## 📌Tools used:
+~~~
   Any text editor (I used Sublime Text)
   XAMPP (for local web server hosting)
+~~~
 
 ## 📌Pages:
 Sign up Page: (allows users to create an account, if they dont already have one)
