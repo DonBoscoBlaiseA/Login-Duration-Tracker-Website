@@ -7,7 +7,7 @@
   Backend - Don Bosco Blaise A
 ~~~
 
-## 📌Languages usedL
+## 📌Languages used:
 ~~~
   PHP
   SQL
