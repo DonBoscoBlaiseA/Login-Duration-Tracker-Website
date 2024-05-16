@@ -2,10 +2,11 @@
   A website which tracks the time you login and logout from the website and stores it in a database.
 
 ## 📌Crafted By:
-~~~
-  Frontend - Sanjay A @MilitantVlr
-  Backend - Don Bosco Blaise A
-~~~
+  Front-End:
+  [![SanjayA](https://github.com/MilitantVlr.png?size=50)](https://github.com/MilitantVlr)  
+  
+  Back-End:
+  [![DonBoscoBlaiseA](https://github.com/DonBoscoBlaiseA.png?size=50)](https://github.com/DonBoscoBlaiseA)
 
 ## 📌Languages used:
 ~~~
